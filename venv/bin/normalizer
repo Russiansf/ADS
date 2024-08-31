@@ -1,4 +1,4 @@
-#!/Users/natalaaleksandrova/Desktop/Скрипты/all-ads-master/venv/bin/python3.12
+#!/home/il/Scrypts/ADS/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
