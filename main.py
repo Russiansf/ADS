@@ -99,8 +99,8 @@ if __name__ == '__main__':
 
     log(datetime.now())
 
-    # acc = input('Start Acc = ')
-    # start_acc = int(acc)
+    acc = input('Start Acc = ')
+    start_acc = int(acc)
 
     for index, item in enumerate(ids, start=0):
         if index+1 >= start_acc:
