@@ -8,21 +8,22 @@ from selenium.webdriver.chrome.service import Service
 from datetime import datetime
 import time
 import random
-# from ads_init import driver_init, driver_close
+from stuff import *
 from change_proxy import change_proxy
-from claim_gecco import start_gecco
-from AI_Arena import * #Ai_dayly, Ai_roll_your_die, check_ai_balans, open_boxes
-from Chainers import chainers_grab_nft
-from Layer3 import layer3_gm
-# from rabby_reg import rabbit_reg
-from dmail import dmail_send_mail
-from berachain import bera_faucet, bera_galxe, well3_daily
-from twiter import twit_follow, twit_like_rt
+# from claim_gecco import start_gecco
+# from AI_Arena import * #Ai_dayly, Ai_roll_your_die, check_ai_balans, open_boxes
+# from Chainers import chainers_grab_nft
+# from Layer3 import layer3_gm
+# # from rabby_reg import rabbit_reg
+# from dmail import dmail_send_mail
+# from berachain import bera_faucet, bera_galxe, well3_daily
+# from twiter import twit_follow, twit_like_rt
+from Mezo import Mezo_dayly
 
-start_akk = 9
+start_acc = 1
 
-randomize = False
-# randomize = True
+# randomize = False
+randomize = True
 # driver: webdriver
 
 open_url = 'http://local.adspower.net:50325/api/v1/browser/start?user_id='
@@ -68,9 +69,10 @@ def close_other_handles():
 
 def start_abuse(ads_id,index):
     index = index+1
-    driver_init(ads_id)    
+    driver_init(ads_id)
 
-    twit_follow(index, ads_id, driver=driver)
+    Mezo_dayly(index, ads_id, driver=driver)
+    # twit_follow(index, ads_id, driver=driver)
     # twit_like_rt(driver=driver)
     # well3_daily(ads_id,index, driver=driver)
     # ai_parser(driver=driver)
@@ -89,22 +91,6 @@ def start_abuse(ads_id,index):
     # bera_galxe(ads_id,index, driver=driver)
                 
 
-def log(txt):
-    print(txt)
-    file = open("log_gm.txt", "a")  # append mode
-    file.write(f"{txt}\n")
-    file.close()
-
-
-def timer(sec):
-    if sec >= 0:
-        print(f'wait: {sec} sec.   ', end='')
-        time.sleep(1)
-        print('\r', end='')
-        sec -= 1
-        timer(sec)
-
-
 if __name__ == '__main__':    
     with open("_ids.txt", "r") as f:
         ids = [row.strip() for row in f]
@@ -113,11 +99,11 @@ if __name__ == '__main__':
 
     log(datetime.now())
 
-    # akk = input('Start Acc = ')
-    # start_akk = int(akk)
+    # acc = input('Start Acc = ')
+    # start_acc = int(acc)
 
     for index, item in enumerate(ids, start=0):
-        if index+1 >= start_akk:
+        if index+1 >= start_acc:
             log(f'========= {index+1}/{len(ids)} =========')
             log(f'start profile {item}')
 
@@ -126,7 +112,7 @@ if __name__ == '__main__':
 
             log(f'finish profile {item}')
             if (index+1) < len(ids):
-                t = random.randint(1, 5)
+                t = random.randint(1, 5)                
                 timer(t)
             time.sleep(1)
     log('*************************\n''ALL PROFILES COMPLETED\n''*************************')
