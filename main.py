@@ -10,21 +10,16 @@ import time
 import random
 from stuff import *
 from change_proxy import change_proxy
-# from claim_gecco import start_gecco
-# from AI_Arena import * #Ai_dayly, Ai_roll_your_die, check_ai_balans, open_boxes
-# from Chainers import chainers_grab_nft
-# from Layer3 import layer3_gm
-# # from rabby_reg import rabbit_reg
-# from dmail import dmail_send_mail
-# from berachain import bera_faucet, bera_galxe, well3_daily
-# from twiter import twit_follow, twit_like_rt
+from claim_gecco import start_gecco
+from AI_Arena import * #Ai_dayly, Ai_roll_your_die, check_ai_balans, open_boxes
+from Chainers import chainers_grab_nft
+from Layer3 import layer3_gm
+# from rabby_reg import rabbit_reg
+from dmail import dmail_send_mail
+from berachain import bera_faucet, bera_galxe, well3_daily
+from twiter import twit_follow, twit_like_rt
 from Mezo import Mezo_dayly
 
-start_acc = 1
-
-# randomize = False
-randomize = True
-# driver: webdriver
 
 open_url = 'http://local.adspower.net:50325/api/v1/browser/start?user_id='
 close_url = 'http://local.adspower.net:50325/api/v1/browser/stop?user_id='
@@ -89,9 +84,38 @@ def start_abuse(ads_id,index):
     # check_ai_balans(index, ads_id, driver=driver)
     # if index < 27:
     # bera_galxe(ads_id,index, driver=driver)
+
+    # acc = input('Start Acc = ')
+    # if acc > 0:
+    #     start_acc = int(acc)
+    # else:
+    #     start_acc == 1
+
+    # randomize_acc = input('randomize acc (y/n):')
+    # if randomize_acc == 'y':
+    #     randomize == True
                 
 
-if __name__ == '__main__':    
+if __name__ == '__main__':
+
+    start_acc = 1
+
+    randomize = False
+
+    randomize_acc = input('randomize acc (y/n):')
+    if randomize_acc == 'y':
+        print(randomize_acc)
+        randomize = True
+        start_acc == 1
+        print(randomize)
+    else:
+        acc = input('Start Acc = ')
+        if acc > 0:
+            start_acc = int(acc)
+        else:
+            start_acc == 1
+
+
     with open("_ids.txt", "r") as f:
         ids = [row.strip() for row in f]
         if randomize == True:
@@ -99,8 +123,6 @@ if __name__ == '__main__':
 
     log(datetime.now())
 
-    acc = input('Start Acc = ')
-    start_acc = int(acc)
 
     for index, item in enumerate(ids, start=0):
         if index+1 >= start_acc:
