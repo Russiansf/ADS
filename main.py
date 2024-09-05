@@ -104,10 +104,8 @@ if __name__ == '__main__':
 
     randomize_acc = input('randomize acc (y/n):')
     if randomize_acc == 'y':
-        print(randomize_acc)
         randomize = True
         start_acc == 1
-        print(randomize)
     else:
         acc = input('Start Acc = ')
         if acc > 0:

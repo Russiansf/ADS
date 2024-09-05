@@ -580,3 +580,534 @@ finish profile j4nlwdn
 ALL PROFILES COMPLETED
 ************************* 
 2024-09-02 22:45:18.505253 
+2024-09-03 19:51:18.958635 
+========= 1/50 ========= 
+start profile jbtk3u0 
+start mezo claim 
+I can use the Mezo claim again in 38 minutes 
+2024-09-03 20:54:06.985219 
+========= 1/50 ========= 
+start profile jbtk3ty 
+start mezo claim 
+Mezo deily loot claimed 
+2024-09-03 20:55:26.980423 
+========= 1/50 ========= 
+start profile jbtk3uc 
+ERROR 'webdriver' 
+2024-09-03 20:55:42.255297 
+========= 1/50 ========= 
+start profile jbtk3u6 
+finish profile jbtk3u6 
+========= 2/50 ========= 
+start profile jbtk3uc 
+ERROR 'webdriver' 
+finish profile jbtk3uc 
+========= 3/50 ========= 
+start profile jbtk3us 
+ERROR 'webdriver' 
+finish profile jbtk3us 
+========= 4/50 ========= 
+start profile jbtk3u5 
+start mezo claim 
+I can use the Mezo claim again in 12 hours 
+finish profile jbtk3u5 
+========= 5/50 ========= 
+start profile jbtk3uf 
+ERROR 'webdriver' 
+finish profile jbtk3uf 
+========= 6/50 ========= 
+start profile jbtk3u3 
+start mezo claim 
+I can use the Mezo claim again через 12 часов 
+finish profile jbtk3u3 
+========= 7/50 ========= 
+start profile jbtk3ug 
+ERROR 'webdriver' 
+finish profile jbtk3ug 
+========= 8/50 ========= 
+start profile j4nlwmi 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwmi 
+========= 9/50 ========= 
+start profile j4nlse4 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlse4 
+========= 10/50 ========= 
+start profile jbtk3u0 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u0 
+========= 11/50 ========= 
+start profile jbtk3ua 
+ERROR 'webdriver' 
+finish profile jbtk3ua 
+========= 12/50 ========= 
+start profile jbtk3v1 
+finish profile jbtk3v1 
+========= 13/50 ========= 
+start profile jbtk3u1 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u1 
+========= 14/50 ========= 
+start profile jbtk3tx 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3tx 
+========= 15/50 ========= 
+start profile jbtk3u9 
+ERROR 'webdriver' 
+finish profile jbtk3u9 
+========= 16/50 ========= 
+start profile jbtk3u7 
+finish profile jbtk3u7 
+========= 17/50 ========= 
+start profile jbtk3uv 
+ERROR 'webdriver' 
+finish profile jbtk3uv 
+========= 18/50 ========= 
+start profile jbtk3up 
+ERROR 'webdriver' 
+finish profile jbtk3up 
+========= 19/50 ========= 
+start profile jbtk3ut 
+ERROR 'webdriver' 
+finish profile jbtk3ut 
+========= 20/50 ========= 
+start profile jbtk3u4 
+start mezo claim 
+I can use the Mezo claim again in 11 hours 
+finish profile jbtk3u4 
+========= 21/50 ========= 
+start profile jbtk3v0 
+ERROR 'webdriver' 
+finish profile jbtk3v0 
+========= 22/50 ========= 
+start profile j4nlwof 
+finish profile j4nlwof 
+========= 23/50 ========= 
+start profile jbtk3ty 
+start mezo claim 
+I can use the Mezo claim again in 21 hours 
+finish profile jbtk3ty 
+========= 24/50 ========= 
+start profile j4nlw4q 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlw4q 
+========= 25/50 ========= 
+start profile jbtk3ux 
+finish profile jbtk3ux 
+========= 26/50 ========= 
+start profile jbtk3ue 
+ERROR 'webdriver' 
+finish profile jbtk3ue 
+========= 27/50 ========= 
+start profile jbtk3ui 
+ERROR 'webdriver' 
+finish profile jbtk3ui 
+========= 28/50 ========= 
+start profile jbtk3uu 
+ERROR 'webdriver' 
+finish profile jbtk3uu 
+========= 29/50 ========= 
+start profile jbtk3uo 
+ERROR 'webdriver' 
+finish profile jbtk3uo 
+========= 30/50 ========= 
+start profile jbtk3u2 
+start mezo claim 
+I can use the Mezo claim again через 10 часов 
+finish profile jbtk3u2 
+========= 31/50 ========= 
+start profile jbtk3ur 
+ERROR 'webdriver' 
+finish profile jbtk3ur 
+========= 32/50 ========= 
+start profile jbtk3uj 
+ERROR 'webdriver' 
+finish profile jbtk3uj 
+========= 33/50 ========= 
+start profile jbtk3uq 
+ERROR 'webdriver' 
+finish profile jbtk3uq 
+========= 34/50 ========= 
+start profile j4nlvvv 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlvvv 
+========= 35/50 ========= 
+start profile jbtk3un 
+ERROR 'webdriver' 
+finish profile jbtk3un 
+========= 36/50 ========= 
+start profile jbtk3uw 
+ERROR 'webdriver' 
+finish profile jbtk3uw 
+========= 37/50 ========= 
+start profile jbtk3ul 
+ERROR 'webdriver' 
+finish profile jbtk3ul 
+========= 38/50 ========= 
+start profile j4nlwgh 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwgh 
+========= 39/50 ========= 
+start profile jbtk3um 
+ERROR 'webdriver' 
+finish profile jbtk3um 
+========= 40/50 ========= 
+start profile j4nlwdn 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwdn 
+========= 41/50 ========= 
+start profile j4nlupo 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlupo 
+========= 42/50 ========= 
+start profile j4nlw83 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlw83 
+========= 43/50 ========= 
+start profile jbtk3ub 
+ERROR 'webdriver' 
+finish profile jbtk3ub 
+========= 44/50 ========= 
+start profile jbtk3v2 
+finish profile jbtk3v2 
+========= 45/50 ========= 
+start profile jbtk3u8 
+finish profile jbtk3u8 
+========= 46/50 ========= 
+start profile jbtk3ud 
+ERROR 'webdriver' 
+finish profile jbtk3ud 
+========= 47/50 ========= 
+start profile jbtk3uk 
+ERROR 'webdriver' 
+finish profile jbtk3uk 
+========= 48/50 ========= 
+start profile jbtk3uh 
+ERROR 'webdriver' 
+finish profile jbtk3uh 
+========= 49/50 ========= 
+start profile jbtk3uy 
+finish profile jbtk3uy 
+========= 50/50 ========= 
+start profile j4nlwi9 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwi9 
+*************************
+ALL PROFILES COMPLETED
+************************* 
+2024-09-03 22:47:45.173967 
+2024-09-04 21:00:57.915443 
+========= 1/50 ========= 
+start profile jbtk3ui 
+ERROR 'webdriver' 
+2024-09-04 21:01:30.264623 
+========= 1/50 ========= 
+start profile j4nlvvv 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlvvv 
+========= 2/50 ========= 
+start profile jbtk3uq 
+ERROR 'webdriver' 
+finish profile jbtk3uq 
+========= 3/50 ========= 
+start profile jbtk3u6 
+finish profile jbtk3u6 
+========= 4/50 ========= 
+start profile jbtk3u7 
+finish profile jbtk3u7 
+========= 5/50 ========= 
+start profile jbtk3uv 
+ERROR 'webdriver' 
+finish profile jbtk3uv 
+========= 6/50 ========= 
+start profile jbtk3uu 
+ERROR 'webdriver' 
+finish profile jbtk3uu 
+========= 7/50 ========= 
+start profile jbtk3un 
+ERROR 'webdriver' 
+finish profile jbtk3un 
+========= 8/50 ========= 
+start profile jbtk3ui 
+ERROR 'webdriver' 
+finish profile jbtk3ui 
+========= 9/50 ========= 
+start profile j4nlwdn 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwdn 
+========= 10/50 ========= 
+start profile j4nlwof 
+finish profile j4nlwof 
+========= 11/50 ========= 
+start profile j4nlse4 
+ERROR Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=126.0.6478.57)
+Stacktrace:
+#0 0x5f2b3fbdd312 <unknown>
+#1 0x5f2b3fbcf09e <unknown>
+#2 0x5f2b3f887587 <unknown>
+#3 0x5f2b3f85fdba <unknown>
+#4 0x5f2b3f8fbcde <unknown>
+#5 0x5f2b3f901b43 <unknown>
+#6 0x5f2b3f8f2e08 <unknown>
+#7 0x5f2b3f8c3f31 <unknown>
+#8 0x5f2b3f8c2fb9 <unknown>
+#9 0x5f2b3f8c3d0c <unknown>
+#10 0x5f2b3fb870ff <unknown>
+#11 0x5f2b3fba1a75 <unknown>
+#12 0x5f2b3fba14e2 <unknown>
+#13 0x5f2b3fba1f05 <unknown>
+#14 0x5f2b3fb90bf7 <unknown>
+#15 0x5f2b3fba22a0 <unknown>
+#16 0x5f2b3fb79101 <unknown>
+#17 0x5f2b3fbbf548 <unknown>
+#18 0x5f2b3fbbf6e4 <unknown>
+#19 0x5f2b3fbce30a <unknown>
+#20 0x7f366cc9ca94 <unknown>
+#21 0x7f366cd29c3c <unknown>
+ 
+start mezo claim 
+2024-09-04 21:21:16.834287 
+========= 1/50 ========= 
+start profile jbtk3un 
+ERROR 'webdriver' 
+2024-09-04 21:21:25.695563 
+========= 1/50 ========= 
+start profile jbtk3uk 
+ERROR 'webdriver' 
+2024-09-04 21:21:34.827429 
+========= 1/50 ========= 
+start profile jbtk3v2 
+finish profile jbtk3v2 
+========= 2/50 ========= 
+start profile j4nlwmi 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwmi 
+========= 3/50 ========= 
+start profile jbtk3uv 
+ERROR 'webdriver' 
+finish profile jbtk3uv 
+========= 4/50 ========= 
+start profile jbtk3u9 
+start mezo claim 
+I can use the Mezo claim again in 20 hours 
+finish profile jbtk3u9 
+========= 5/50 ========= 
+start profile jbtk3us 
+ERROR 'webdriver' 
+finish profile jbtk3us 
+========= 6/50 ========= 
+start profile jbtk3ux 
+start mezo claim 
+I can use the Mezo claim again in a day 
+finish profile jbtk3ux 
+========= 7/50 ========= 
+start profile jbtk3up 
+ERROR 'webdriver' 
+finish profile jbtk3up 
+========= 8/50 ========= 
+start profile jbtk3ul 
+ERROR 'webdriver' 
+finish profile jbtk3ul 
+========= 9/50 ========= 
+start profile j4nlw83 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlw83 
+========= 10/50 ========= 
+start profile jbtk3ty 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ty 
+========= 11/50 ========= 
+start profile j4nlwof 
+finish profile j4nlwof 
+========= 12/50 ========= 
+start profile jbtk3u5 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u5 
+========= 13/50 ========= 
+start profile jbtk3uc 
+start mezo claim 
+I can use the Mezo claim again in 21 hours 
+finish profile jbtk3uc 
+========= 14/50 ========= 
+start profile jbtk3ur 
+ERROR 'webdriver' 
+finish profile jbtk3ur 
+========= 15/50 ========= 
+start profile jbtk3uh 
+ERROR 'webdriver' 
+finish profile jbtk3uh 
+========= 16/50 ========= 
+start profile jbtk3u1 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u1 
+========= 17/50 ========= 
+start profile jbtk3uk 
+ERROR 'webdriver' 
+finish profile jbtk3uk 
+========= 18/50 ========= 
+start profile jbtk3uu 
+ERROR 'webdriver' 
+finish profile jbtk3uu 
+========= 19/50 ========= 
+start profile jbtk3um 
+ERROR 'webdriver' 
+finish profile jbtk3um 
+========= 20/50 ========= 
+start profile jbtk3uy 
+finish profile jbtk3uy 
+========= 21/50 ========= 
+start profile jbtk3u4 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u4 
+========= 22/50 ========= 
+start profile j4nlw4q 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlw4q 
+========= 23/50 ========= 
+start profile j4nlvvv 
+start mezo claim 
+I can use the Mezo claim again in 21 hours 
+finish profile j4nlvvv 
+========= 24/50 ========= 
+start profile jbtk3ub 
+start mezo claim 
+I can use the Mezo claim again in 19 hours 
+finish profile jbtk3ub 
+========= 25/50 ========= 
+start profile jbtk3uq 
+ERROR 'webdriver' 
+finish profile jbtk3uq 
+========= 26/50 ========= 
+start profile jbtk3u6 
+finish profile jbtk3u6 
+========= 27/50 ========= 
+start profile jbtk3u0 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u0 
+========= 28/50 ========= 
+start profile jbtk3v1 
+finish profile jbtk3v1 
+========= 29/50 ========= 
+start profile jbtk3ui 
+ERROR 'webdriver' 
+finish profile jbtk3ui 
+========= 30/50 ========= 
+start profile jbtk3v0 
+ERROR 'webdriver' 
+finish profile jbtk3v0 
+========= 31/50 ========= 
+start profile jbtk3uw 
+ERROR 'webdriver' 
+finish profile jbtk3uw 
+========= 32/50 ========= 
+start profile j4nlwdn 
+start mezo claim 
+I can use the Mezo claim again in 20 hours 
+finish profile j4nlwdn 
+========= 33/50 ========= 
+start profile j4nlwgh 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwgh 
+========= 34/50 ========= 
+start profile jbtk3ut 
+ERROR 'webdriver' 
+finish profile jbtk3ut 
+========= 35/50 ========= 
+start profile jbtk3u2 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u2 
+========= 36/50 ========= 
+start profile jbtk3ud 
+finish profile jbtk3ud 
+========= 37/50 ========= 
+start profile jbtk3un 
+ERROR 'webdriver' 
+finish profile jbtk3un 
+========= 38/50 ========= 
+start profile jbtk3u3 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u3 
+========= 39/50 ========= 
+start profile jbtk3u8 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u8 
+========= 40/50 ========= 
+start profile jbtk3uj 
+ERROR 'webdriver' 
+finish profile jbtk3uj 
+========= 41/50 ========= 
+start profile jbtk3uo 
+ERROR 'webdriver' 
+finish profile jbtk3uo 
+========= 42/50 ========= 
+start profile j4nlwi9 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwi9 
+========= 43/50 ========= 
+start profile j4nlupo 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlupo 
+========= 44/50 ========= 
+start profile jbtk3uf 
+ERROR 'webdriver' 
+finish profile jbtk3uf 
+========= 45/50 ========= 
+start profile jbtk3ue 
+ERROR 'webdriver' 
+finish profile jbtk3ue 
+========= 46/50 ========= 
+start profile j4nlse4 
+start mezo claim 
+I can use the Mezo claim again in 20 hours 
+finish profile j4nlse4 
+========= 47/50 ========= 
+start profile jbtk3ua 
+start mezo claim 
+I can use the Mezo claim again in 18 hours 
+finish profile jbtk3ua 
+========= 48/50 ========= 
+start profile jbtk3ug 
+ERROR 'webdriver' 
+finish profile jbtk3ug 
+========= 49/50 ========= 
+start profile jbtk3u7 
+finish profile jbtk3u7 
+========= 50/50 ========= 
+start profile jbtk3tx 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3tx 
+*************************
+ALL PROFILES COMPLETED
+************************* 
+2024-09-04 23:46:54.681602 
