@@ -11,7 +11,7 @@ import random
 from stuff import *
 from change_proxy import change_proxy
 from claim_gecco import start_gecco
-from AI_Arena import * #Ai_dayly, Ai_roll_your_die, check_ai_balans, open_boxes
+from AI_Arena import *  # Ai_dayly, Ai_roll_your_die, check_ai_balans, open_boxes
 from Chainers import chainers_grab_nft
 from Layer3 import layer3_gm
 # from rabby_reg import rabbit_reg
@@ -29,28 +29,29 @@ def driver_init(ads_id):
     global driver
     try:
         resp = requests.get(f'{open_url}{ads_id}').json()
-        chrome_driver = resp["data"]["webdriver"]       
+        chrome_driver = resp["data"]["webdriver"]
         options = webdriver.ChromeOptions()
-        options.add_experimental_option("debuggerAddress", resp["data"]["ws"]["selenium"])
-        driver = webdriver.Chrome(service=Service(chrome_driver), options=options)
+        options.add_experimental_option(
+            "debuggerAddress", resp["data"]["ws"]["selenium"])
+        driver = webdriver.Chrome(
+            service=Service(chrome_driver), options=options)
         time.sleep(6)
         close_other_handles()
         time.sleep(4)
-        # driver.execute_script('window.stop();')        
+        # driver.execute_script('window.stop();')
         return True
     except Exception as ex:
         log(f'ERROR {ex}')
         return False
-        
-    
+
 
 def driver_close(ads_id):
     driver.quit()
     requests.get(f'{close_url}{ads_id}')
-    
+
 
 def close_other_handles():
-    time.sleep(2)    
+    time.sleep(2)
     curr = driver.current_window_handle
     time.sleep(2)
     for handle in driver.window_handles:
@@ -62,7 +63,7 @@ def close_other_handles():
         # close_other_handles()
 
 
-def start_abuse(ads_id,index):
+def start_abuse(ads_id, index):
     index = index+1
     driver_init(ads_id)
 
@@ -74,7 +75,7 @@ def start_abuse(ads_id,index):
     # bera_faucet(index, ads_id, driver=driver)
     driver_close(ads_id)
 
-        # # if index <= 28:
+    # # if index <= 28:
     # layer3_gm(index, ads_id, driver=driver)
     # start_gecco(index, ads_id, driver=driver)
     # if index < 33 or index == 50:
@@ -94,7 +95,7 @@ def start_abuse(ads_id,index):
     # randomize_acc = input('randomize acc (y/n):')
     # if randomize_acc == 'y':
     #     randomize == True
-                
+
 
 if __name__ == '__main__':
 
@@ -113,14 +114,13 @@ if __name__ == '__main__':
         else:
             start_acc == 1
 
-
     with open("_ids.txt", "r") as f:
         ids = [row.strip() for row in f]
         if randomize == True:
             ids = set(ids)
 
-    log(datetime.now())
-
+    start_time = datetime.now()
+    log(start_time)
 
     for index, item in enumerate(ids, start=0):
         if index+1 >= start_acc:
@@ -132,10 +132,10 @@ if __name__ == '__main__':
 
             log(f'finish profile {item}')
             if (index+1) < len(ids):
-                t = random.randint(1, 5)                
+                t = random.randint(1, 5)
                 timer(t)
             time.sleep(1)
     log('*************************\n''ALL PROFILES COMPLETED\n''*************************')
-    # log('ALL PROFILES COMPLETED')
-    # log('*************************')
-    log(datetime.now())
+
+    work_time = datetime.now() - start_time
+    log(f'Время окончания - {datetime.now()}\n'f'Время работы - {work_time}')
