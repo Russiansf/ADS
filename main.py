@@ -42,7 +42,12 @@ def driver_init(ads_id):
         return True
     except Exception as ex:
         log(f'ERROR {ex}')
-        return False
+        iter_ = 0
+        for i in range(5):
+            driver_init(ads_id)
+            iter_ += i
+            if iter == 5:
+                return False
 
 
 def driver_close(ads_id):
@@ -139,3 +144,11 @@ if __name__ == '__main__':
 
     work_time = datetime.now() - start_time
     log(f'Время окончания - {datetime.now()}\n'f'Время работы - {work_time}')
+
+
+# ERROR 'webdriver'
+# Traceback (most recent call last):
+#   File "/home/il/Scrypts/ADS/main.py", line 131, in <module>
+#     start_abuse(item, index)
+#   File "/home/il/Scrypts/ADS/main.py", line 70, in start_abuse
+#     Mezo_dayly(index, ads_id, driver=driver)
