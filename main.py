@@ -120,6 +120,7 @@ if __name__ == '__main__':
             start_acc = int(acc)
         else:
             start_acc == 1
+    # timer(2200)
 
     with open("_ids.txt", "r") as f:
         ids = [row.strip() for row in f]
