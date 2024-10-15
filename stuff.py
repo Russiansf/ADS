@@ -41,8 +41,9 @@ def timer(sec: int, message=None, sound_file=None):
         sec -= 1
 
     if sound_file:
-        playsound(sound_file)  # Воспроизводим звук, если файл указан
-    print(message)  # Выводим сообщение по завершении таймера
+        playsound(sound_file)
+    if message:  # Воспроизводим звук, если файл указан
+        print(message)  # Выводим сообщение по завершении таймера
 
 
 # Пример использования
