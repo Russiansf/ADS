@@ -7808,3 +7808,266 @@ ALL PROFILES COMPLETED
 ************************* 
 Время окончания - 2024-10-22 20:44:37.913605
 Время работы - 3:44:33.905146 
+2024-10-23 17:43:19.472165 
+========= 1/50 ========= 
+start profile jbtk3ud 
+start mezo claim 
+#######---Не вышло---####### 
+finish profile jbtk3ud 
+========= 2/50 ========= 
+start profile j4nlupo 
+start mezo claim 
+#######---Не вышло---####### 
+finish profile j4nlupo 
+========= 3/50 ========= 
+start profile jbtk3uf 
+start mezo claim 
+I can use the Mezo claim again in 44 minutes 
+finish profile jbtk3uf 
+========= 4/50 ========= 
+start profile jbtk3uu 
+ERROR 'webdriver' 
+finish profile jbtk3uu 
+========= 5/50 ========= 
+start profile jbtk3u9 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u9 
+========= 6/50 ========= 
+start profile j4nlvvv 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlvvv 
+========= 7/50 ========= 
+start profile jbtk3v1 
+finish profile jbtk3v1 
+========= 8/50 ========= 
+start profile jbtk3ui 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ui 
+========= 9/50 ========= 
+start profile jbtk3ub 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ub 
+========= 10/50 ========= 
+start profile jbtk3uh 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3uh 
+========= 11/50 ========= 
+start profile jbtk3u3 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u3 
+========= 12/50 ========= 
+start profile jbtk3ug 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ug 
+========= 13/50 ========= 
+start profile jbtk3ty 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ty 
+========= 14/50 ========= 
+start profile jbtk3ut 
+ERROR 'webdriver' 
+finish profile jbtk3ut 
+========= 15/50 ========= 
+start profile j4nlw4q 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlw4q 
+========= 16/50 ========= 
+start profile jbtk3up 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3up 
+========= 17/50 ========= 
+start profile j4nlse4 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlse4 
+========= 18/50 ========= 
+start profile jbtk3uy 
+finish profile jbtk3uy 
+========= 19/50 ========= 
+start profile jbtk3u0 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u0 
+========= 20/50 ========= 
+start profile jbtk3ue 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ue 
+========= 21/50 ========= 
+start profile jbtk3u6 
+finish profile jbtk3u6 
+========= 22/50 ========= 
+start profile jbtk3un 
+start mezo claim 
+#######---Не вышло---####### 
+finish profile jbtk3un 
+========= 23/50 ========= 
+start profile jbtk3u4 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u4 
+========= 24/50 ========= 
+start profile jbtk3uq 
+finish profile jbtk3uq 
+========= 25/50 ========= 
+start profile jbtk3v2 
+finish profile jbtk3v2 
+========= 26/50 ========= 
+start profile j4nlw83 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlw83 
+========= 27/50 ========= 
+start profile j4nlwof 
+finish profile j4nlwof 
+========= 28/50 ========= 
+start profile j4nlwdn 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwdn 
+========= 29/50 ========= 
+start profile jbtk3u5 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u5 
+========= 30/50 ========= 
+start profile jbtk3uj 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3uj 
+========= 31/50 ========= 
+start profile jbtk3u7 
+finish profile jbtk3u7 
+========= 32/50 ========= 
+start profile j4nlwgh 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwgh 
+========= 33/50 ========= 
+start profile jbtk3uc 
+start mezo claim 
+I can use the Mezo claim again in 20 hours 
+finish profile jbtk3uc 
+========= 34/50 ========= 
+start profile j4nlwmi 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwmi 
+========= 35/50 ========= 
+start profile jbtk3tx 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3tx 
+========= 36/50 ========= 
+start profile jbtk3ul 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ul 
+========= 37/50 ========= 
+start profile jbtk3us 
+ERROR 'webdriver' 
+finish profile jbtk3us 
+========= 38/50 ========= 
+start profile jbtk3ux 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ux 
+========= 39/50 ========= 
+start profile jbtk3uw 
+finish profile jbtk3uw 
+========= 40/50 ========= 
+start profile jbtk3um 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3um 
+========= 41/50 ========= 
+start profile jbtk3uv 
+ERROR 'webdriver' 
+finish profile jbtk3uv 
+========= 42/50 ========= 
+start profile jbtk3u8 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u8 
+========= 43/50 ========= 
+start profile jbtk3ur 
+ERROR Message: timeout: Timed out receiving message from renderer: 20,000
+  (Session info: chrome=126.0.6478.57)
+Stacktrace:
+#0 0x5b8b164f8312 <unknown>
+#1 0x5b8b164ea09e <unknown>
+#2 0x5b8b161a2587 <unknown>
+#3 0x5b8b1618b793 <unknown>
+#4 0x5b8b161897b3 <unknown>
+#5 0x5b8b16189dd4 <unknown>
+#6 0x5b8b161a2b87 <unknown>
+#7 0x5b8b1617e4b3 <unknown>
+#8 0x5b8b1617e765 <unknown>
+#9 0x5b8b1621d468 <unknown>
+#10 0x5b8b1620de08 <unknown>
+#11 0x5b8b161def31 <unknown>
+#12 0x5b8b161ddfb9 <unknown>
+#13 0x5b8b161ded0c <unknown>
+#14 0x5b8b164a20ff <unknown>
+#15 0x5b8b164bca75 <unknown>
+#16 0x5b8b164bc4e2 <unknown>
+#17 0x5b8b164bcf05 <unknown>
+#18 0x5b8b164abbf7 <unknown>
+#19 0x5b8b164bd2a0 <unknown>
+#20 0x5b8b16494101 <unknown>
+#21 0x5b8b164da548 <unknown>
+#22 0x5b8b164da6e4 <unknown>
+#23 0x5b8b164e930a <unknown>
+#24 0x72e9c7c9ca94 <unknown>
+#25 0x72e9c7d29c3c <unknown>
+ 
+finish profile jbtk3ur 
+========= 44/50 ========= 
+start profile jbtk3ua 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3ua 
+========= 45/50 ========= 
+start profile jbtk3u1 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u1 
+========= 46/50 ========= 
+start profile j4nlwi9 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile j4nlwi9 
+========= 47/50 ========= 
+start profile jbtk3uo 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3uo 
+========= 48/50 ========= 
+start profile jbtk3u2 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3u2 
+========= 49/50 ========= 
+start profile jbtk3uk 
+start mezo claim 
+Mezo deily loot claimed 
+finish profile jbtk3uk 
+========= 50/50 ========= 
+start profile jbtk3v0 
+ERROR 'webdriver' 
+finish profile jbtk3v0 
+*************************
+ALL PROFILES COMPLETED
+************************* 
+Время окончания - 2024-10-23 21:17:01.734758
+Время работы - 3:33:42.262511 
